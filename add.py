@@ -1,7 +1,7 @@
 '''
 ================SAIFALISEW1508=====================
 Telegram members adding script
-Coded by a kid- github.com/saifalisew1508
+Coded by a kid- saifalisew1508
 Apologies if anything in the code is dumb :)
 Copy with credits
 ************************************************
