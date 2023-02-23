@@ -34,8 +34,8 @@ def banner():
     for char in b:
         print(f'{random.choice(colors)}{char}{n}')
     print('===========TELEGRAM MEMBERS ADDER============')
-    print(f' Version: 2.0 | Telegram Handler: @saifalisew1508{n}\n')
-    print(f' WhatsApp: +919708973259 | Instagram: saifalisew1508\n')
+    print(f' Version: 2.0 | Telegram Handler: @black_pearl_group{n}\n')
+    
 
 def clr():
     if os.name == 'nt':
